@@ -1,0 +1,13 @@
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\bin\Debug\netcoreapp3.1\InterfacesInChsarp.exe
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\bin\Debug\netcoreapp3.1\InterfacesInChsarp.deps.json
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\bin\Debug\netcoreapp3.1\InterfacesInChsarp.runtimeconfig.json
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\bin\Debug\netcoreapp3.1\InterfacesInChsarp.runtimeconfig.dev.json
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\bin\Debug\netcoreapp3.1\InterfacesInChsarp.dll
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\bin\Debug\netcoreapp3.1\InterfacesInChsarp.pdb
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.csprojAssemblyReference.cache
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.AssemblyInfoInputs.cache
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.AssemblyInfo.cs
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.csproj.CoreCompileInputs.cache
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.dll
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.pdb
+D:\C# - Advanced\InterfacesInChsarp\InterfacesInChsarp\obj\Debug\netcoreapp3.1\InterfacesInChsarp.genruntimeconfig.cache
